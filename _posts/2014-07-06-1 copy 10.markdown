@@ -1,0 +1,15 @@
+---
+title: Pamela Kumar
+subtitle: Vice President, Cloud Computing Innovation Council of India
+layout: default
+modal-id: 2
+date: 2014-07-18
+img: pamela.png
+thumbnail: pamela.png
+alt: image-alt
+project-date: https://in.linkedin.com/pub/pamela-kumar/4/112/8b5
+client: 
+category: 
+description: Since October 2012 Pamela has been working on incubating the CLOUD COMPUTING INNOVATION COUNCIL of India as an open forum to bring together technology experts across industry, Academia and Government to collaborate and innovate around Cloud Computing Technologies to enable rapid deployment of cloud computing as well as accelerate the emergence of the Indian ecosystem as a global leader. She is the Founding Chair as well as the Vice President of the Governing Board of CCICI. Pamela did a short stint at HP Enterprise Group R&D Lab in 2014/15. as the Director of the Advanced Systems Engineering Lab involved in development of next generation data center infrastructure. From 2007 to 2013, Pamela held various positions in the IBM India Systems and Technology (STG) Lab. As Director of the Technology & Semiconductor Lab and later the Storage and Networking lab she helped establish globally integrated labs working on cutting edge technology and product development in the areas of nanotechnology, processor & ASIC technologies as well as mid-range and high-end scale-out NAS storage and FCoE networking solutions. From 1999 – 2007 she held various positions at Texas Instruments (TI) India. As Director of Cellular Systems SW she was a key leader in creation of a $2.5 B business around single chip cell phone solution for emerging markets. As general Manager Broadband she lead the PacketCable (voice over cable) solution development to create a $100 Million business. Pamela was the first ever appointee from India in the IEEE Standards Association – Board of Governors, as the Member at large for 2011/12. She also held the position of Chair for IEEE Computer Society and Chapter Coordination & membership development for the IEEE Bangalore Chapter. She holds 3 Patents associated with  Networking accelerators. Pamela brings with her an experience of 30+ years in the semiconductor, computers and communication industry. She holds 3 patents in the area of networking accelerators. Prior to TI, she worked with C-DOT in Bangalore and at AT&T, Bell Labs in USA. Pamela completed her Bachelor of Engineering from Punjab Engineering College in Electronics & Electrical Communication & her Master’s degree in Electrical Engineering from Rutgers University, USA. She has also completed her Executive Program in Management in the Indian Institute of Management, Bangalore, India.
+
+---
