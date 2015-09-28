@@ -4,8 +4,8 @@ subtitle: Professor & Director, Cloud Center. Department of CSE, PES University
 layout: default
 modal-id: 2
 date: 2014-07-18
-img: dinakar.png
-thumbnail: dinakar.png
+img: dinakar.jpg
+thumbnail: dinakar.jpg
 alt: image-alt
 project-date: https://in.linkedin.com/pub/dinakar-sitaram/0/22a/a57
 client: 
