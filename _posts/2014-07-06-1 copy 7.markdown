@@ -1,15 +1,16 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Vibhakar Bhushan
+subtitle: Chair - eHealth Working Group at Cloud Computing Innovation Council of India
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: vibhakar.jpg
+thumbnail: vibhakar.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: https://in.linkedin.com/pub/vibhakar-bhushan/0/869/380
+client: 
+category: 
+description: Vibhakar is Founder Director of AnyTime Medicare Services with strong focus on wellness programs for preventive healthcare management and Trignon Business Consulting, a strategy & solutions consulting venture. He chairs the eHealth working group within Cloud Computing Innovation Council of India (CCICI) to chart out initiatives to leverage cloud based technology for HealthCare delivery in India. He is also member of Technical Advisory Committee of Securities & Exchange Board of India (SEBI). An IT Professional with experience spanning 30+ years with Misys, Oracle & Unisys in various senior executive positions, he has been at the forefront of building solutions, consulting Fortune500 clients and managing IT Operations. He was the Managing Director of Oracle SSI India (1997-2002), a result of an acquisition by Oracle of EWI Business Consulting, which he had founded in 1995. Subsequently he launched the consulting business for Oracle’s On-demand initiative in Europe, before returning to India as Development Director for Misys Banking & Healthcare operations. He also mentors and has been on the board of several start-up companies. Earlier Vibhakar passed-out from IIT-Kanpur in 1977 and was in the pioneering batch of Tata Burroughs delivering consulting services across the globe. In 1984 he joined Burroughs in Switzerland and was senior member of the IT management team for Europe Africa division till 1995. He has global experience having worked in US, Europe, Australia and has been on both sides of consulting engagements, as provider as well as receiver. Vibhakar’s mission is to build and optimize Business Solutions leveraging IT to it's maximum potential with strong focus on helping Indian industry.
+
 
 ---

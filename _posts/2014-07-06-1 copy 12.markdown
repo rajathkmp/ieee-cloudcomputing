@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Praveen Gurram
+subtitle: Senior Director - Oracle India, Product Development & IT Services Global Delivery
 layout: default
-modal-id: 1
+modal-id: 4
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: praveen.png
+thumbnail: praveen.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: http://in.linkedin.com/in/gnpraveenkumar/
+client: 
+category: 
+description: Praveen has 21 years of Global Software Development experience in large enterprise Product Development and CMMI Level 5 IT Services companies. He is currently working with Oracle as Senior Director, leading the APAC Demo Services. Earlier worked in a technology start up OpenSCG in BIG Data space, led the development of innovative and award winning applications in Social computing, mobility, Cloud Computing and SaaS for France Telecom and Cisco. Praveen has led the Platform and Integration teams at offshore for Viacom, JDA / Manugistics product suite. Praveen had played a Key role in building (hiring and product transition) JDA India and Invensys India organizations.  Praveen has done his Bachelors of Technology in Computer Science & Engineering from JNTU College of Engineering, Hyderabad and Executive Business Management from XLRI, Jamshedpur Earlier Vice Chair for WG 2.3 Platforms in CCICI
 
 ---

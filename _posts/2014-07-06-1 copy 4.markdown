@@ -1,15 +1,16 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Srinivas Varadarajan
+subtitle: Founder-CEO Vigyanlabs, Mentor at Founder Institute
 layout: default
-modal-id: 1
+modal-id: 9
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: Srinivas.png
+thumbnail: Srinivas.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: https://in.linkedin.com/pub/srinivas-varadarajan/0/a80/a70
+client: 
+category: 
+description: Srinivas is an Innovator, Entrepreneur, and Mentor and has assisted businesses in solving complex problems by building products and solutions that meet and exceed customer expectations. His innovations are in the areas of Intelligent Power Management (http://www.ipmplus.com), Performance Engineering and Networking. He has 5 patents to his credit. Srinivas has a master’s degree in computer science from IIT Bombay and over 24+ years of experience in the IT industry. Currently he is the founder and CEO for VIGYANLABS a startup engaged in creating innovative products for green computing. He also served as a Principal Architect for the Aadhaar program of UIDAI.  He supports the startup eco-system by being a mentor at the founder institute. Prior to Vigyanlabs he worked as a Chief Architect at Dell and Master Technologist at Hewlett Packard respectively. Srinivas speaks often at various industry/academic forums and events.  His other interests include astronomy, Ayurveda and alternative medicine.
+
 
 ---

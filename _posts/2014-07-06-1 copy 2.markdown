@@ -1,15 +1,16 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Geetha Manjunath
+subtitle: Research Lab Manager at Xerox Research Centre India
 layout: default
-modal-id: 1
+modal-id: 7
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: Geethamanjunath.jpg
+thumbnail: Geethamanjunath.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: https://in.linkedin.com/pub/geetha-manjunath/8/805/82b
+client: 
+category: 
+description: Geetha Manjunath heads the Data Analytics Research Laboratory in Xerox Research Centre India (XRCI). She has about 25 years of research expertise in IT industry and has proposed and lead multiple research projects in data analytics, crowdsourcing, cloud computing, semantic web, mobile and distributed computing. Her research in the above areas has resulted in innovative prototypes, patents, publications and new products. Before joining Xerox in April 2013, she was a Principal Research Scientist and Research Manager at Hewlett Packard Labs India. . She was awarded the NASCCOM IT Innovator 2009 award for her innovation on SiteOnMobile. She was also the winner of the 2010 Grand Challenges for Technologists, posed by MIT Technology Review under Healthcare Category, She is the author of a book on Cloud technologies titled “Moving to the Cloud” published by Elsevier Syngress Publications in Dec 2011, which is used as an Engineering college text book. She is the Chair of the Big Data Working Group and an Executive Council Member of the IEEE Cloud Computing Innovation Council for India. She holds six US patents and many more pending grant. She is a gold medalist from the Indian Institute of Science (IISc), Bangalore from where she holds a Master’s Degree and PhD from Computer Science and Automation Department.
+
 
 ---

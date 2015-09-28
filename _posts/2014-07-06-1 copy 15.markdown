@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Krishna Kumar
+subtitle: Cloud Platforms Architect - Huawei Technologies
 layout: default
-modal-id: 1
+modal-id: 7
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: Krishna.JPG
+thumbnail: Krishna.JPG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: https://in.linkedin.com/in/krishna00
+client: 
+category: 
+description: Krishna Kumar is a Lead Architect and Delivery Head PaaS at Huawei India cloud having 18 years of experience in IT industry. In his current role, he leads a team of architects and developers on integrating PaaS technologies into Huawei cloud.
 
 ---

@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Saksham Khandelwal
+subtitle: Senior Executive - Innovation at Wipro Ltd
 layout: default
-modal-id: 1
+modal-id: 10
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: Saksham.JPG
+thumbnail: Saksham.JPG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: https://in.linkedin.com/in/sakshamkhandelwal
+client: 
+category: 
+description: Saksham is a forward-looking, innovative business and technology practitioner. In his current role, he is an advisor for Wipro’s KM - Strategy and Innovation charter. Earlier, he was a part of the Innovation office at Chief Technology Office at Wipro where he led various technology led innovation initiatives. He was also responsible for various initiatives involving solution development and strategic alliances of CTO office. Saksham has published papers and research reports in international conferences and European business group. He has also been nominated by industry to be part of various conference committees. Saksham holds a Masters in Business Design and Innovation. He is a life member of Advanced Computing and Communication society and founder member of CCICI. He is also on CII State Panel on Skill Development. He is passionate about design driven innovation and likes playing chess.
 
 ---

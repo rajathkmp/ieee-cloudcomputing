@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Manoj Kumar Jain
+subtitle: Senior Technical Consultant at EMC2
 layout: default
-modal-id: 1
+modal-id: 6
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: ManojKumar.jpg
+thumbnail: ManojKumar.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: https://in.linkedin.com/in/manojkumarjain
+client: 
+category: 
+description: Manoj Kumar Jain is Consultant & Senior Architect in EMC Corporation, worked in variety of technology area including Infrastructure Management,  Security and  distributed computing etc.  He is working on the theory of fault propagation in distributed systems.  He has authored several patents and white papers in the domain of real time causal analysis of distributed system. He has initiated work on open standard for cloud SLA. He holds Bachelor of Engineering degree in Electronics & Communication from IIT Roorkee . 
 
 ---

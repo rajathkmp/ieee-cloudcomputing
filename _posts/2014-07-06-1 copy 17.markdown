@@ -1,0 +1,15 @@
+---
+title: Rohan Joshi
+subtitle: Founder at Wolken Software Private Limited
+layout: default
+modal-id: 18
+date: 2014-07-18
+img: 
+thumbnail: 
+alt: image-alt
+project-date: https://in.linkedin.com/pub/rohan-joshi/0/36a/72
+client: 
+category: 
+description: 
+
+---
