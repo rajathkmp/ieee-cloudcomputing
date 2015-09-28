@@ -1,13 +1,13 @@
 ---
-title: Lalit Mohan Sanagavarapu
-subtitle: Sr Technology Manager at Institute for Development and Research in Banking Technology
+title: Dr. Pallab Saha
+subtitle: Partner, Chief Enterprise Architect (Government) & Head of Wipro Academy of Enterprise Architecture
 layout: default
 modal-id: 19
 date: 2014-07-18
-img: Lalit.jpg
-thumbnail: Lalit.jpg
+img: 
+thumbnail: 
 alt: image-alt
-project-date: https://www.linkedin.com/in/slalitm
+project-date: https://in.linkedin.com/in/drpallabsaha
 client: 
 category: 
 description: 
