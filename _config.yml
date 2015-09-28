@@ -14,24 +14,26 @@ color:
 # Team names, titles and social links
 people:
 - name: IIIT Bangalore
-  pic: 
+  pic: 1.png
   position:
   social:
-    - title: plus
-      url: 100
+    - title: location-arrow
+      url: https://www.google.co.in/maps/dir//International+Institute+of+Information+Technology,+26%2FC,+Electronics+City,+Hosur+Road,,+Electronic+City,+Electronics+City+Phase+1,+Electronic+City,+Bengaluru,+Karnataka+560100/@12.844652,77.663252,17z/data=!4m13!1m4!3m3!1s0x3bae135aeb7f340f:0x3ad86af40d2ac611!2sInternational+Institute+of+Information+Technology!3b1!4m7!1m0!1m5!1m1!1s0x3bae135aeb7f340f:0x3ad86af40d2ac611!2m2!1d77.663252!2d12.844652?hl=en
+    - title: info
+      url: https://en.wikipedia.org/wiki/International_Institute_of_Information_Technology,_Bangalore
 
-- name: Registration Details
+- name: Registration Info
   pic: 
   position:
   social:
     - title: plus
-      url: 200
+      url: 
 - name: FAQ
   pic: 
   position:
   social:
     - title: plus
-      url: 300
+      url: 
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

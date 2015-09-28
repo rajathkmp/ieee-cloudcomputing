@@ -72,6 +72,12 @@ h6 {
 
 }
 
+.img-crop1{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    overflow: hidden; }
+
 .img-centered {
     margin: 0 auto;
 }
