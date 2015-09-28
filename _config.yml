@@ -13,159 +13,26 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Dinakar Sitaram
+- name: IIIT Bangalore
   pic: 
-  position: Professor & Director, Cloud Center; Department of Computer Science and Engineering, PES University
+  position:
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: plus
+      url: #portfolioModal100
 
-- name: Dr. Pallabh Saha
+- name: Registration Details
   pic: 
-  position: Partner, Chief Enterprise Architect (Government) & Head of Wipro Academy of Enterprise Architecture
+  position:
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #      
+    - title: plus
+      url: #portfolioModal200
+- name: FAQ
+  pic: 
+  position:
+  social:
+    - title: plus
+      url: #portfolioModal300
 
-- name: Emmanuel Pilli
-  pic: 
-  position: Assistant Professor at Malaviya National Institute of Technology, Jaipur
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Gita Manjunath
-  pic: 
-  position: Research Lab Manager at Xerox Research Centre India
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Pamela Kumar
-  pic: 
-  position: Vice President, Cloud Computing Innovation Council of India
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Lalith Mohan Sangavarapa
-  pic: 
-  position: Sr Technology Manager at Institute for Development and Research in Banking Technology
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Manoj Kumar Jain
-  pic: 
-  position: Sr. Technical Consultant at EMC2
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Krishna M Kumar
-  pic: 
-  position: Cloud Platforms Architect - Huawei Technologies
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Rohan Joshi
-  pic: 
-  position: Founder at Wolken Software Private Limited
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Saksham Khandelwal
-  pic: 
-  position: Senior Executive - Innovation at Wipro Ltd.
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Sandeep Dhar
-  pic: 
-  position: Principal Engineer - Cisco Systems
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Srinivas Varadarajan
-  pic: 
-  position: Founder-CEO Vigyanlabs, Mentor at Founder Institute
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Swapnil Kulkarni
-  pic: 
-  position: Senior Software Engineer - Openstack at Red Hat
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Vibhakar Bhushan
-  pic: 
-  position: Chair - eHealth Working Group at Cloud Computing Innovation Council of India
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

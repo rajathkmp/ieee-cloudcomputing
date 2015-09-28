@@ -64,6 +64,14 @@ h6 {
     font-weight: 700;
 }
 
+.img-crop{
+    position: relative;
+    width: 200px;
+    height: 250px;
+    overflow: hidden;
+
+}
+
 .img-centered {
     margin: 0 auto;
 }
