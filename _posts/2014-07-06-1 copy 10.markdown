@@ -2,7 +2,7 @@
 title: Pamela Kumar
 subtitle: Vice President, Cloud Computing Innovation Council of India
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2014-07-18
 img: pamela.png
 thumbnail: pamela.png
