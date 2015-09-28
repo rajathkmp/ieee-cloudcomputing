@@ -361,6 +361,15 @@ section h3.section-subheading {
     font-weight: 400;
 }
 
+section h3.section-subheading1 {
+    margin-bottom: 75px;
+    text-transform: none;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    
+    font-weight: 400;
+}
+
 @media(min-width:768px) {
     section {
         padding: 150px 0;
