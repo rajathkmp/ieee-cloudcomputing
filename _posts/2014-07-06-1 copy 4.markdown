@@ -2,7 +2,7 @@
 title: Srinivas Varadarajan
 subtitle: Founder-CEO Vigyanlabs, Mentor at Founder Institute
 layout: default
-modal-id: 9
+modal-id: 13
 date: 2014-07-18
 img: Srinivas.png
 thumbnail: Srinivas.png

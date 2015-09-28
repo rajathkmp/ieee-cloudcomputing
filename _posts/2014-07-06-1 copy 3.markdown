@@ -2,7 +2,7 @@
 title: Dr. Emmanuel Shubhakar Pilli
 subtitle: Assistant Professor at Malaviya National Institute of Technology, Jaipur
 layout: default
-modal-id: 8
+modal-id: 12
 date: 2014-07-18
 img: EmmShub.JPG
 thumbnail: EmmShub.JPG

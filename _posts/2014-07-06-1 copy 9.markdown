@@ -2,7 +2,7 @@
 title: Professor S Raghunath
 subtitle: Corporate Strategy & Policy, IIM Bangalore
 layout: default
-modal-id: 14
+modal-id: 18
 date: 2014-07-18
 img: ranghunath.jpg
 thumbnail: raghunath.jpg

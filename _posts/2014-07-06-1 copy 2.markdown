@@ -2,7 +2,7 @@
 title: Geetha Manjunath
 subtitle: Research Lab Manager at Xerox Research Centre India
 layout: default
-modal-id: 7
+modal-id: 11
 date: 2014-07-18
 img: Geethamanjunath.jpg
 thumbnail: Geethamanjunath.jpg

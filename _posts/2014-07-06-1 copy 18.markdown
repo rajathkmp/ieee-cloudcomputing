@@ -2,7 +2,7 @@
 title: Dr. Pallab Saha
 subtitle: Partner, Chief Enterprise Architect (Government) & Head of Wipro Academy of Enterprise Architecture
 layout: default
-modal-id: 19
+modal-id: 10
 date: 2014-07-18
 img: 
 thumbnail: 

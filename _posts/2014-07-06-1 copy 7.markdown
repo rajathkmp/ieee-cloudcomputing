@@ -2,7 +2,7 @@
 title: Vibhakar Bhushan
 subtitle: Chair - eHealth Working Group at Cloud Computing Innovation Council of India
 layout: default
-modal-id: 1
+modal-id: 16
 date: 2014-07-18
 img: vibhakar.jpg
 thumbnail: vibhakar.jpg

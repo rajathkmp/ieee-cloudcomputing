@@ -2,7 +2,7 @@
 title: Lalit Mohan Sanagavarapu
 subtitle: Sr Technology Manager at Institute for Development and Research in Banking Technology
 layout: default
-modal-id: 19
+modal-id: 20
 date: 2014-07-18
 img: Lalit.jpg
 thumbnail: Lalit.jpg

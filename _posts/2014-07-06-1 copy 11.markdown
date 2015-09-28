@@ -2,7 +2,7 @@
 title: Dinakar Sitaram
 subtitle: Professor & Director, Cloud Center. Department of CSE, PES University
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2014-07-18
 img: dinakar.jpg
 thumbnail: dinakar.jpg
