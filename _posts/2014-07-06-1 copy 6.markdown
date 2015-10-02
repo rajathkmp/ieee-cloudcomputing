@@ -4,8 +4,8 @@ subtitle: Principal Consultant, Corporate Technology Innovation
 layout: default
 modal-id: 15
 date: 2014-07-18
-img: Surendargupta.jpg
-thumbnail: Surendargupta.jpg
+img: Surendergupta.jpg
+thumbnail: Surendergupta.jpg
 alt: image-alt
 project-date: https://in.linkedin.com/pub/surender-gupta/4/ba9/479
 client: 

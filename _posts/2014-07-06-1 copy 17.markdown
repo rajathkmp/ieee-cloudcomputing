@@ -4,8 +4,8 @@ subtitle: Founder at Wolken Software Private Limited
 layout: default
 modal-id: 9
 date: 2014-07-18
-img: 
-thumbnail: 
+img: rohan.jpg
+thumbnail: rohan.jpg
 alt: image-alt
 project-date: https://in.linkedin.com/pub/rohan-joshi/0/36a/72
 client: 

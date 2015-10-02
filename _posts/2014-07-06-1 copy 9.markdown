@@ -4,7 +4,7 @@ subtitle: Corporate Strategy & Policy, IIM Bangalore
 layout: default
 modal-id: 18
 date: 2014-07-18
-img: ranghunath.jpg
+img: raghunath.jpg
 thumbnail: raghunath.jpg
 alt: image-alt
 project-date: http://www.iimb.ernet.in/user/135/s-raghunath

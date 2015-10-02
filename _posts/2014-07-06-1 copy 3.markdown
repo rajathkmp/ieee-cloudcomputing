@@ -7,7 +7,7 @@ date: 2014-07-18
 img: EmmShub.JPG
 thumbnail: EmmShub.JPG
 alt: image-alt
-project-date: 
+project-date: https://www.linkedin.com/in/emmanuelpilli
 client: 
 category: 
 description: Dr. Emmanuel Shubhakar Pilli is an Assistant Professor in the Department of Computer Science of Engineering in Malaviya National Institute of Technology, Jaipur. He received M. Tech (Computer Science) from Birla Institute of Technology Ranchi in 2001 and Ph. D (Computer Science) from the Indian Institute of Technology Roorkee for his thesis on "A Framework for Network Forensic Analysis" in 2012. He was awarded the ISEA Fellowship by the Department of Information Technology, Govt. of India, for his research in Information Security. He has over 18 years of teaching, research & administrative experience. He has guided 18 M. Tech dissertations and around 30 B. Tech projects. He is presently guiding 8 Ph. D and 2 M. Tech students in his areas of interest - Security and Privacy, Forensics, Cloud Computing, Big Data, UWSN & IoT. He has 34 papers in international journals and conferences of repute. He has conducted workshops in the areas of Network Simulators, WSN, Big Data, and Parallel Computing. He is a member and active participant in professional activities of ACM, IEEE and CSI. He is also the Chair of Workgroup 3.2 on Cloud Security of the Cloud Computing Innovation Council of India (CCICI). Dr. Pilli is also an active member of two workgroups  ‐ Cloud Security and Cloud Forensics, of the National Institute of Standards and Technology (NIST), Gaithesburg, Maryland, USA. 
