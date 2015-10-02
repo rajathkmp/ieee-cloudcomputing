@@ -22,24 +22,16 @@ people:
     - title: info
       url: https://en.wikipedia.org/wiki/International_Institute_of_Information_Technology,_Bangalore
 
-- name: Registration Info
-  pic: 
+- name: Registration info
+  pic: 2.png
   position:
   social:
     - title: plus
-      url: 
-- name: FAQ
-  pic: 
-  position:
-  social:
-    - title: plus
-      url: 
-
-
+      url: http://cloudworkshopieeebangalore.doattend.com
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com
+    url: 
   - title: facebook
     url:
 
