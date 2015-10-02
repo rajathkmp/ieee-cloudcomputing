@@ -4,8 +4,8 @@ subtitle: Senior Technical Consultant at EMC2
 layout: default
 modal-id: 6
 date: 2014-07-18
-img: ManojKumar.jpg
-thumbnail: ManojKumar.jpg
+img: manoj.jpg
+thumbnail: manoj.jpg
 alt: image-alt
 project-date: https://in.linkedin.com/in/manojkumarjain
 client: 
