@@ -4,8 +4,8 @@ subtitle: Corporate Distinguished Engineer at EMC Corporation
 layout: default
 modal-id: 19
 date: 2014-07-18
-img: 
-thumbnail: 
+img: Sairam.jpg
+thumbnail: Sairam.jpg
 alt: image-alt
 project-date: 
 client: 

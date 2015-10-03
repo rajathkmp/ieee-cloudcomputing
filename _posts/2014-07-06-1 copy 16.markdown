@@ -4,8 +4,8 @@ subtitle: Principal Engineer, Cisco Systems
 layout: default
 modal-id: 8
 date: 2014-07-18
-img: 
-thumbnail: 
+img: Sandeep.jpg
+thumbnail: Sandeep.jpg
 alt: image-alt
 project-date: 
 client: 
