@@ -1,5 +1,5 @@
 ---
-title: Surendar Gupta
+title: Surender Gupta
 subtitle: Principal Consultant, Corporate Technology Innovation
 layout: default
 modal-id: 15
